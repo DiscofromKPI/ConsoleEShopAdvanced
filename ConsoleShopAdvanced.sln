@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleShopAdvanced", "ConsoleShopAdvanced\ConsoleShopAdvanced.csproj", "{38F19AF6-72AA-4C42-B70E-BB3E41CD9CD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{4DC06A68-FFE4-4875-9CD4-70046931509F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38F19AF6-72AA-4C42-B70E-BB3E41CD9CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F19AF6-72AA-4C42-B70E-BB3E41CD9CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F19AF6-72AA-4C42-B70E-BB3E41CD9CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F19AF6-72AA-4C42-B70E-BB3E41CD9CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC06A68-FFE4-4875-9CD4-70046931509F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC06A68-FFE4-4875-9CD4-70046931509F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC06A68-FFE4-4875-9CD4-70046931509F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC06A68-FFE4-4875-9CD4-70046931509F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

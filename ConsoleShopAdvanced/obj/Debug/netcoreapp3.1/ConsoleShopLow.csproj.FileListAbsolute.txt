@@ -1,0 +1,13 @@
+D:\EPAM\consoleeshop-level-low\consoleeshop-level-low\ConsoleShopLow\ConsoleShopLow\bin\Debug\netcoreapp3.1\ConsoleShopLow.exe
+D:\EPAM\consoleeshop-level-low\consoleeshop-level-low\ConsoleShopLow\ConsoleShopLow\bin\Debug\netcoreapp3.1\ConsoleShopLow.deps.json
+D:\EPAM\consoleeshop-level-low\consoleeshop-level-low\ConsoleShopLow\ConsoleShopLow\bin\Debug\netcoreapp3.1\ConsoleShopLow.runtimeconfig.json
+D:\EPAM\consoleeshop-level-low\consoleeshop-level-low\ConsoleShopLow\ConsoleShopLow\bin\Debug\netcoreapp3.1\ConsoleShopLow.runtimeconfig.dev.json
+D:\EPAM\consoleeshop-level-low\consoleeshop-level-low\ConsoleShopLow\ConsoleShopLow\bin\Debug\netcoreapp3.1\ConsoleShopLow.dll
+D:\EPAM\consoleeshop-level-low\consoleeshop-level-low\ConsoleShopLow\ConsoleShopLow\bin\Debug\netcoreapp3.1\ConsoleShopLow.pdb
+D:\EPAM\consoleeshop-level-low\consoleeshop-level-low\ConsoleShopLow\ConsoleShopLow\obj\Debug\netcoreapp3.1\ConsoleShopLow.csproj.AssemblyReference.cache
+D:\EPAM\consoleeshop-level-low\consoleeshop-level-low\ConsoleShopLow\ConsoleShopLow\obj\Debug\netcoreapp3.1\ConsoleShopLow.AssemblyInfoInputs.cache
+D:\EPAM\consoleeshop-level-low\consoleeshop-level-low\ConsoleShopLow\ConsoleShopLow\obj\Debug\netcoreapp3.1\ConsoleShopLow.AssemblyInfo.cs
+D:\EPAM\consoleeshop-level-low\consoleeshop-level-low\ConsoleShopLow\ConsoleShopLow\obj\Debug\netcoreapp3.1\ConsoleShopLow.csproj.CoreCompileInputs.cache
+D:\EPAM\consoleeshop-level-low\consoleeshop-level-low\ConsoleShopLow\ConsoleShopLow\obj\Debug\netcoreapp3.1\ConsoleShopLow.dll
+D:\EPAM\consoleeshop-level-low\consoleeshop-level-low\ConsoleShopLow\ConsoleShopLow\obj\Debug\netcoreapp3.1\ConsoleShopLow.pdb
+D:\EPAM\consoleeshop-level-low\consoleeshop-level-low\ConsoleShopLow\ConsoleShopLow\obj\Debug\netcoreapp3.1\ConsoleShopLow.genruntimeconfig.cache
